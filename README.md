@@ -7,6 +7,8 @@
 
 ALCNet is a neural network architecture where compression ratios at each layer are learned as trainable parameters rather than fixed before training. This enables task-adaptive architecture optimization without expensive neural architecture search.
 
+<img width="555" height="375" alt="image" src="https://github.com/user-attachments/assets/65994f91-87e9-4b8a-9f3c-3fcf14c7bdd7" />
+
 ## Key Features
 
 - **Learnable Compression Ratios**: Target sparsity at each layer adapts during training
@@ -15,6 +17,7 @@ ALCNet is a neural network architecture where compression ratios at each layer a
 - **No NAS Required**: Eliminates expensive architecture search
 - **Interpretable**: Learned compression ratios reveal task complexity
 
+- 
 ## Installation
 
 ```bash
@@ -115,6 +118,8 @@ trainer = ALCNetTrainer(
     lambda_ratio=0.05     # Ratio matching weight
 )
 ```
+
+<img width="740" height="1086" alt="Screenshot 2026-02-15 002455" src="https://github.com/user-attachments/assets/a391af6a-692e-45df-a59d-e78ca84f53fe" />
 
 ## Examples
 
