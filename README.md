@@ -1,5 +1,5 @@
 # ALCNet - Adaptive Layer Condensation Networks
-
+### Ananda Jana 
 [![PyPI version](https://badge.fury.io/py/alcnet.svg)](https://badge.fury.io/py/alcnet)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
