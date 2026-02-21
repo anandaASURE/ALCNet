@@ -140,17 +140,22 @@ See the `examples/` directory:
 If you use ALCNet in your research, please cite:
 
 ```bibtex
-@article{jana2026alcnet,
-  title={Adaptive Layer Condensation Networks: Learning Dynamic Compression Ratios for Hierarchical Feature Selection},
-  author={Jana, Ananda},
-  journal={arXiv preprint},
-  year={2026}
+@article{jana2026adaptive,
+  author       = {Jana, Ananda},
+  title        = {Adaptive Layer Condensation Networks: Learning Dynamic Compression Ratios for Hierarchical Feature Selection},
+  journal      = {TechRxiv},
+  year         = {2026},
+  month        = feb,
+  doi          = {10.36227/techrxiv.177162166.68955501/v1},
+  note         = {Preprint}
 }
 ```
 
 ## Paper
 
-The full paper describing the theory, implementation, and experimental validation of ALCNet is available at: [Link to paper]
+The full paper describing the theory, implementation, and experimental validation of ALCNet is available at: [(https://doi.org/10.36227/techrxiv.177162166.68955501/v1)]
+
+A. Jana, “Adaptive Layer Condensation Networks: Learning Dynamic Compression Ratios for Hierarchical Feature Selection,” TechRxiv, Feb. 20, 2026. doi:10.36227/techrxiv.177162166.68955501/v1
 
 ## Contributing
 
