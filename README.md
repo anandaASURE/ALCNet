@@ -1,11 +1,15 @@
-# ALCNet - Adaptive Layer Condensation Networks
+<img width="180" height="177" alt="Screenshot 2026-02-21 162500" src="https://github.com/user-attachments/assets/f883486d-7a83-44c0-88ba-8950cc2460c3" />
+
+
+
+# ALCN - Adaptive Layer Condensation Networks
 ### Author - Ananda Jana  
 [![PyPI version](https://badge.fury.io/py/alcnet.svg)](https://badge.fury.io/py/alcnet)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Learning Dynamic Compression Ratios for Hierarchical Feature Selection**
 
-ALCNet is a neural network architecture where compression ratios at each layer are learned as trainable parameters rather than fixed before training. This enables task-adaptive architecture optimization without expensive neural architecture search.
+ALCNet/ALCN is a neural network architecture where compression ratios at each layer are learned as trainable parameters rather than fixed before training. This enables task-adaptive architecture optimization without expensive neural architecture search.
 
 <img width="555" height="375" alt="image" src="https://github.com/user-attachments/assets/65994f91-87e9-4b8a-9f3c-3fcf14c7bdd7" />
 
